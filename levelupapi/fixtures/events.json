@@ -1,0 +1,39 @@
+[
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "game": 1,
+            "description": "WWII Stratagy board game 120 min estimated to complete",
+            "date": "10/24/21",
+            "time": 1200,
+            "organizer": 1,
+            "attendees": 2
+        }
+    
+    },
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "game": 2,
+            "description": "Dungeons and Dragons Style Role Playing game",
+            "date": "10/25/21",
+            "time": 1300,
+            "organizer": 1,
+            "attendees": 2
+        }
+    },
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "game": 3,
+            "description": "Computer Based Free to play MMO",
+            "date": "10/26/21",
+            "time": 1400,
+            "organizer": 1,
+            "attendees": 2
+        }
+    }
+]

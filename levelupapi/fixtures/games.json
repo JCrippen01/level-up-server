@@ -1,0 +1,41 @@
+[
+    {
+        "model": "levelupapi.game",
+        "pk": 1,
+        "fields": {
+            "game_type": 2,
+            "title": "Axis and Allies",
+            "maker": "Milton Bradley",
+            "gamer": 1,
+            "number_of_players": 5,
+            "skill_level": 4
+        }
+    },
+
+    {
+        "model": "levelupapi.game",
+        "pk": 2,
+        "fields": {
+            "game_type": 1,
+            "title": "Pathfinder",
+            "maker": "Paizo Publishing",
+            "gamer": 1,
+            "number_of_players": 5,
+            "skill_level": 2
+        }
+    },
+    {
+        "model": "levelupapi.game",
+        "pk": 3,
+        "fields": {
+            "game_type": 1,
+            "title": "Guild Wars 2",
+            "maker": "ArenaNet",
+            "gamer": 1,
+            "number_of_players": 1,
+            "skill_level": 2
+        }
+    }
+]
+
+    

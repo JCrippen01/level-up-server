@@ -1,0 +1,18 @@
+
+{
+    "python.linting.pylintArgs": [
+        "--load-plugins=pylint_django",
+        "--django-settings-module=levelup.settings",
+    ],
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "levelupapi",
+            "database": "db.sqlite3"
+        }
+    ]
+
+}
